@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="format_files.py" type="PLAIN_TEXT" />
       <mapping ext="tgd" type="PLAIN_TEXT" />
+      <mapping pattern="binary_file_writign" type="Python" />
       <mapping pattern="format_files" type="Python" />
     </extensionMap>
   </component>
