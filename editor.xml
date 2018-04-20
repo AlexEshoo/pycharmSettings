@@ -4,6 +4,11 @@
     <option name="FONT_SCALE" value="1.25" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Python" value="true" />
+      </map>
+    </option>
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
 </application>
