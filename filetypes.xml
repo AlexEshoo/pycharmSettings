@@ -6,6 +6,7 @@
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="format_files.py" type="PLAIN_TEXT" />
       <mapping pattern="example_thread.py" type="PLAIN_TEXT" />
+      <mapping pattern="e0eeda77-3513-4328-bc56-814ece31a4cb" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="tgd" type="PLAIN_TEXT" />
       <mapping pattern="format_files" type="Python" />
