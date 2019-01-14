@@ -28,6 +28,7 @@
       <mapping ext="pyd" type="PLAIN_TEXT" />
       <mapping ext="tgd" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="binary_file_writign" type="Python" />
       <mapping pattern="copy and overwrite dirs" type="Python" />
