@@ -12,18 +12,20 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="e0eeda77-3513-4328-bc56-814ece31a4cb" type="PLAIN_TEXT" />
+      <mapping pattern="b448459e-e76d-4bb1-ac09-cdc0b3e65159" type="PLAIN_TEXT" />
       <mapping pattern="format_files.py" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern="0dc0741e-3ae8-4e9d-a958-b24b0f0bdfbb" type="PLAIN_TEXT" />
-      <mapping pattern="somefile" type="PLAIN_TEXT" />
-      <mapping pattern="d43cfc78-b355-4b2a-8f7e-1dff4c163963" type="PLAIN_TEXT" />
-      <mapping pattern="b448459e-e76d-4bb1-ac09-cdc0b3e65159" type="PLAIN_TEXT" />
-      <mapping pattern="c0c2bc43-7783-4537-b18b-915ef08978ad" type="PLAIN_TEXT" />
-      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern=".cachefile" type="PLAIN_TEXT" />
+      <mapping pattern="c0c2bc43-7783-4537-b18b-915ef08978ad" type="PLAIN_TEXT" />
+      <mapping pattern="d43cfc78-b355-4b2a-8f7e-1dff4c163963" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="somefile" type="PLAIN_TEXT" />
+      <mapping pattern="e0eeda77-3513-4328-bc56-814ece31a4cb" type="PLAIN_TEXT" />
       <mapping pattern="example_thread.py" type="PLAIN_TEXT" />
+      <mapping pattern="0dc0741e-3ae8-4e9d-a958-b24b0f0bdfbb" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="iss" type="PLAIN_TEXT" />
+      <mapping ext="pyd" type="PLAIN_TEXT" />
       <mapping ext="tgd" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
