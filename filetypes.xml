@@ -23,6 +23,7 @@
       <mapping pattern="c0c2bc43-7783-4537-b18b-915ef08978ad" type="PLAIN_TEXT" />
       <mapping pattern=".cachefile" type="PLAIN_TEXT" />
       <mapping pattern="example_thread.py" type="PLAIN_TEXT" />
+      <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="iss" type="PLAIN_TEXT" />
