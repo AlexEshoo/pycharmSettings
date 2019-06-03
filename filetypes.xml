@@ -18,6 +18,7 @@
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="0dc0741e-3ae8-4e9d-a958-b24b0f0bdfbb" type="PLAIN_TEXT" />
       <mapping pattern="somefile" type="PLAIN_TEXT" />
+      <mapping pattern=".stateCache" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="b448459e-e76d-4bb1-ac09-cdc0b3e65159" type="PLAIN_TEXT" />
       <mapping pattern="c0c2bc43-7783-4537-b18b-915ef08978ad" type="PLAIN_TEXT" />
