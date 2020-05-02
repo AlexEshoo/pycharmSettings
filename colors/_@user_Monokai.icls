@@ -3,7 +3,7 @@
     <property name="created">2018-09-13T11:08:31</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2018-09-26T08:30:59</property>
+    <property name="modified">2020-05-02T11:49:40</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -652,6 +652,19 @@
     <option name="GQL_STRING_LITERAL">
       <value>
         <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="GRAPHQL_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="aa4926" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GRAPHQL_TYPE_NAME">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="HAML_CLASS">
