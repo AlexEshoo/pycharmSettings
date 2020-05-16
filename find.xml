@@ -1,9 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="Project 'alarm_monitor'" />
-    <option name="defaultScopeName" value="Project 'alarm_monitor'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'alarm_monitor'" />
-  </component>
-</application>
