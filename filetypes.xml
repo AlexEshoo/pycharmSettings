@@ -7,12 +7,12 @@
       <mapping pattern=".cachefile" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="iss" type="PLAIN_TEXT" />
+      <mapping ext="tgd" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
-      <mapping ext="tgd" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping pattern="copy and overwrite dirs" type="Python" />
       <mapping pattern="binary_file_writign" type="Python" />
       <mapping pattern="format_files" type="Python" />
